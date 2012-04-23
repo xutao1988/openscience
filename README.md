@@ -46,8 +46,8 @@
 * 我所在学科，高质量的论文文献库是哪些？
 * [videolectures](http://videolectures.net/)中，有哪些我所在学科的精彩演讲，尤其是诺奖级别的？
 * [conferencealerts](http://www.conferencealerts.com/)：我所在学科哪些学术会议属于世界级别，值得订阅？
-* [SlideShare](http://slideshare.net/)：我所在学科，有哪些好的共享ppt？
-* [COS](http://fundingopps.cos.com/about/fundingopps.shtml)：我所在学科，近些年基金申请反映出什么规律或者趋势？
+* [SlideShare](http://slideshare.net/)：我所在学科，有哪些好的共享ppt作者？
+* [COS](http://fundingopps.cos.com/about/fundingopps.shtml)：我所在学科，近些年基金申请反映出什么规律或者趋势？同时，有哪些基金对开放获取、开放科学的支持力度更大？
 * 如何使用[Google Scholar](http://scholar.google.com/)
 与[MAS](http://academic.research.microsoft.com/)导出、管理参考文献？
 
@@ -92,6 +92,7 @@
 * 开源硬件对自己的项目有什么启发？
 * 如何在自己家乡、机构所在社区、周边学校开展公民科学活动或者做一些讲座？
 * 类似于[猫头鹰实验室](http://maotouying.net/)这样的活动，我可以搞起来吗？
+* 有哪些基金特别支持类似开放科学的ngo活动？
 
 
 ##Q8：如何以开放学习的方式学习科学
