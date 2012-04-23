@@ -65,7 +65,7 @@
 * 未来二十年，这些年轻科学家里面，谁最有潜力？他们的论文、工作反映出来的学科本质创新规律是什么？我如何以5年前、5年后，对他们的工作的二次评估来调整自己的兴趣方向或者改善自己对学科创新本质规律的认识？
 * 哪些杰出青年科学家最容易获得本学科的终身成就奖？
 * [sciencewatch](http://sciencewatch.com/)网站的[Special Topics栏目](http://sciencewatch.com/ana/st/about/)与[Hot Papers](http://sciencewatch.com/dr/nhp/)栏目、[Fast Breaking Papers](http://sciencewatch.com/dr/fbp/)，反映学科近些年的热门或者突破进展论文，哪些是靠谱的，哪些是值得自己学习的？
-* 本研究领域的平均引用率是多少，哪些科学家可以称之为合格，哪些可以称之为卓越？哪些可以称之为top科学家？
+* 本研究领域的平均引用率是多少，哪些科学家可以称之为合格，哪些可以称之为优秀？哪些可以称之为卓越（top）科学家？
 * [top科学家的H指数](http://www.cs.ucla.edu/~palsberg/h-number.html)都是多少？他们的高引用论文前三名都是什么？反映了学科什么样的本质规律？
 * 自身学科有哪些特殊的文献质量评价方法？它们的研究方法、研究对象、年份都有何规律？
 
